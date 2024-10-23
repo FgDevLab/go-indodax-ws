@@ -1,4 +1,4 @@
-# Indodax WebSocket Client Golang
+# Indodax Web Socket Client Golang
 
 Example Implementation Of Indodax Market Web Socket https://github.com/btcid/indodax-official-api-docs/blob/master/Marketdata-websocket.md
 
