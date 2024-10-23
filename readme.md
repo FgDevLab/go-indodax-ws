@@ -1,6 +1,6 @@
-# Indodax WebSocket Client
+# Indodax WebSocket Client Golang
 
-Example Implementation Of Indodax Web Socket : https://github.com/btcid/indodax-official-api-docs/blob/master/Marketdata-websocket.md
+Example Implementation Of Indodax Market Web Socket https://github.com/btcid/indodax-official-api-docs/blob/master/Marketdata-websocket.md
 
 - **Authentication**: The client sends an authentication token to the WebSocket server.
 - **Ping-Pong Mechanism**: The client sends ping messages every 30 seconds to keep the connection alive.
